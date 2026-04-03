@@ -1,8 +1,8 @@
 class CodecacheCli < Formula
   desc "Local-first CLI for storing and retrieving code snippets"
   homepage "https://github.com/tanRdev/codecache-cli"
-  url "https://github.com/tanRdev/codecache-cli/releases/download/v0.1.0/codecache-cli-0.1.0.tgz"
-  sha256 "160a54893e0d94b29f7419228eedd130970c5ff27cdf2b67a081cf2cf497a2c8"
+  url "https://github.com/tanRdev/codecache-cli/releases/download/v0.1.1/codecache-cli-0.1.1.tgz"
+  sha256 "cd495307590e397785ed65b535b55367e7c0776ce81f23762bdf39c2db5984e9"
   license "MIT"
 
   depends_on "node" => ">=24.13.0"
